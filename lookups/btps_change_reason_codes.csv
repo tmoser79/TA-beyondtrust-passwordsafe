@@ -1,0 +1,4 @@
+ChangeReasonCd,ChangeReason
+P,Password changed by PBW agent
+S,Password changed by scheduler
+M,Password changed manually
