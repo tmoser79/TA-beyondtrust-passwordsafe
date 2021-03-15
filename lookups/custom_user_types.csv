@@ -1,0 +1,4 @@
+user,user_type
+adm*,pam_admin
+pam_*,pam_user
+*,user
